@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../NLW Movie Challenge"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "NLW Movie Challenge"
+  }
+}
